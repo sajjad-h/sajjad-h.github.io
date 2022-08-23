@@ -18,7 +18,7 @@ int main()
     //freopen("output.txt", "w", stdout);
     int t = 1; cin >> t;
     for (int tc = 1; tc <= t; tc++) {
-        cout << "Case " << tc << ": ";
+        //cout << "Case " << tc << ": ";
         testcase();
     }
     return 0;
